@@ -1,5 +1,5 @@
 ﻿<#
-This simple script downloads and installs Chrome, and sets it as default browser of OS.
+This simple script downloads and installs Chrome, and sets it as default browser of OS. All in background.
 * start as admin mode *
 
 Author: Matheus Rocha
